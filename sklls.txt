@@ -1,3 +1,2 @@
 Course - QA
-Skills - SQL, Postman, Github.
-123456
+Skills - SQL, Postman, Github, Python, Dev Tools, VPN, Mobile testing.
